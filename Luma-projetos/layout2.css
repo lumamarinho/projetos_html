@@ -1,0 +1,44 @@
+
+body{
+    margin: 0%;
+}
+
+section{
+    display:flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+}
+.row1{
+    background-color: yellow;
+    height: 20vh;
+    margin-bottom: 10px;
+}
+.row2 {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col1{
+    background-color: yellow;
+width: 33%; 
+height: 40vh;
+}
+
+.col2{
+    background-color: yellow;
+    width: 33%;
+    height: 40vh;
+} 
+
+.col3{
+    background-color: yellow;
+    width: 33%; 
+    height: 40vh;
+}
+.row3{
+    background-color: yellow;
+    height: 40vh;
+    margin-top: 10px;
+}
+
